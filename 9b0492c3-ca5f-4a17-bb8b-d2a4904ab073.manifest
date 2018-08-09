@@ -1,0 +1,13 @@
+{
+  "id": "9b0492c3-ca5f-4a17-bb8b-d2a4904ab073",
+  "filename": "video-sample.avi",
+  "size": 1299178,
+  "chunks": [
+    {
+      "0000000001": "0000000001-9b0492c3-ca5f-4a17-bb8b-d2a4904ab073.chunk"
+    },
+    {
+      "0000000002": "0000000002-9b0492c3-ca5f-4a17-bb8b-d2a4904ab073.chunk"
+    }
+  ]
+}
