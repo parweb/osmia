@@ -1,0 +1,3 @@
+uire('./services/reader'));
+app.get('/write', require('./services/writer'));
+app.post('/upload', req
