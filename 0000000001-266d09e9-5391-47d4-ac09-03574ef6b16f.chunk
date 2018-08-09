@@ -1,0 +1,5 @@
+const app = require('fastify')();
+
+app.register(require('fastify-multipart'));
+
+app.get('/read', req
