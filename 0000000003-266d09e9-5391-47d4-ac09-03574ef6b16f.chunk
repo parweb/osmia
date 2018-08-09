@@ -1,0 +1,5 @@
+uire('./services/uploader'));
+
+setTimeout(require('./services/syncer'), 1000);
+
+app.listen(process.e
